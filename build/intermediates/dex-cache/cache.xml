@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\sdknew\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_a6df9d7ac3027b257f2e3597a77906af45fc11e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\1ea7c05860dce8db660288af47e3b53456dc516c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_ed4baebc52c33d0daac1e663418c75af305d9905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdknew\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_51627675aa7c8bf87005bb5940c75173917fdab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\b0e70b55e6dde134eeaac074f8ac70ff704d9572\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_863988b5fa3c21ea3cedca1331a9a7fb0acbbc76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\2d77f19fc25e103b608049444ad4bb69ea93f9fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_440fa7b0d1c88ea673c3ab01634972bdee90e961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\dcb6bea512b4f2b0f5d7b01cc6f430e7d33433b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_4a6a005b2da5546b4eaf7fdc11325752279f6bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\a5315eb344c7d75622a8bdd059d00397e15ecdc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_51ed4dcfe7f03a29bdfc6067305714c7e78adb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\9b2683c02f124736cdcdb7e2190b449b380f5bb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_7c9d098e7a0bf72bf96401ea9031a39f2c1e725f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\71be447a7aadac63aa1d53c12bb7d74acdfeec66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_7d229a95fd35ad9ada1c82e2b0344faba66a639b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\cdd9e50e796b4666b0547b56f34b0fbd2b307a66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_d1d8911bd881eeedc67873172203d114ee5a0b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\e8662420c456d3e27e01918367a801cddbf73c77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_77b9d3f63b80772a6e42851e117d7f53ae66ca38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pyae\.android\build-cache\e2aec93944050da84ca3969e409e7e17c692305d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pyae\AndroidStudioProjects\Communication_Services\app\build\intermediates\pre-dexed\debug\classes_b13eb41e767c6147ddfb297ba40699cd408a1349.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Communication_Services</string>
+    <string name="startLocTrack">Start Location Tracking</string>
+    <string name="stopLocTrack">Stop Location Tracking</string>
+</resources>

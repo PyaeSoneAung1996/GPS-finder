@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pyae.communication_services.MainActivity">
+
+
+
+    <Button
+        android:id="@+id/btnStartLocationTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/startLocTrack"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="121dp"
+        android:layout_above="@+id/btnStopLocationTracking"
+        android:layout_alignLeft="@+id/btnStopLocationTracking"
+        android:layout_alignStart="@+id/btnStopLocationTracking"
+        android:layout_marginBottom="85dp" />
+
+    <Button
+        android:id="@+id/btnStopLocationTracking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stopLocTrack"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="231dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
